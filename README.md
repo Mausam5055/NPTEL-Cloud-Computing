@@ -12,6 +12,7 @@
   <a href="#-about"><img src="https://img.shields.io/badge/Platform-NPTEL-blue?style=for-the-badge&logo=google-scholar&logoColor=white" alt="NPTEL"></a>
   <a href="#-lecture-notes"><img src="https://img.shields.io/badge/Weeks-12-green?style=for-the-badge&logo=bookstack&logoColor=white" alt="Weeks"></a>
   <a href="#-assignment-solutions"><img src="https://img.shields.io/badge/Assignments-11-orange?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Assignments"></a>
+  <a href="#-revision-notes"><img src="https://img.shields.io/badge/Revision-9_Notes-red?style=for-the-badge&logo=book&logoColor=white" alt="Revision"></a>
   <a href="https://github.com/Mausam5055/NPTEL-Cloud-Computing/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=open-source-initiative&logoColor=white" alt="License"></a>
   <a href="https://github.com/Mausam5055/NPTEL-Cloud-Computing/stargazers"><img src="https://img.shields.io/github/stars/Mausam5055/NPTEL-Cloud-Computing?style=for-the-badge&logo=github&color=gold" alt="Stars"></a>
   <a href="https://github.com/Mausam5055/NPTEL-Cloud-Computing/network/members"><img src="https://img.shields.io/github/forks/Mausam5055/NPTEL-Cloud-Computing?style=for-the-badge&logo=github&color=purple" alt="Forks"></a>
@@ -22,6 +23,7 @@
   <a href="#-course-overview">Course Overview</a> •
   <a href="#-lecture-notes">Lecture Notes</a> •
   <a href="#-assignment-solutions">Assignments</a> •
+  <a href="#-revision-notes">Revision Notes</a> •
   <a href="#-how-to-use">How to Use</a> •
   <a href="#-contributing">Contributing</a>
 </p>
@@ -38,6 +40,7 @@ This repository serves as a comprehensive resource hub for the **NPTEL Cloud Com
 
 - ✅ **Lecture Notes** — Week-by-week PDF notes covering the full syllabus
 - ✅ **Assignment Solutions** — Verified solutions for all 11 weekly assignments
+- ✅ **Revision Notes** — Quick revision materials covering key course topics
 - ✅ **Well-Organized Structure** — Easy navigation with clear folder hierarchy
 
 ---
@@ -104,6 +107,24 @@ All assignment solutions are in the `Assignment/` directory. Each PDF contains t
 
 ---
 
+## 📑 Revision Notes
+
+All revision notes and final topic summaries are available in the `Revison/` directory.
+
+| File | Description |
+|:-----|:------------|
+| [`01_Cloud_Computing.pdf`](Revison/01_Cloud_Computing.pdf) | Revision Notes Part 1 |
+| [`02_Cloud_Computing.pdf`](Revison/02_Cloud_Computing.pdf) | Revision Notes Part 2 |
+| [`03_Cloud_Computing.pdf`](Revison/03_Cloud_Computing.pdf) | Revision Notes Part 3 |
+| [`04_Cloud_Computing.pdf`](Revison/04_Cloud_Computing.pdf) | Revision Notes Part 4 |
+| [`05_Cloud_Computing.pdf`](Revison/05_Cloud_Computing.pdf) | Revision Notes Part 5 |
+| [`06_Cloud_Computing.pdf`](Revison/06_Cloud_Computing.pdf) | Revision Notes Part 6 |
+| [`07_Spatial_MCC_CPS_V2V_Notes.pdf`](Revison/07_Spatial_MCC_CPS_V2V_Notes.pdf) | Spatial MCC, CPS, & V2V Notes |
+| [`08_FINAL_TOPICS.pdf`](Revison/08_FINAL_TOPICS.pdf) | Final Topics Part 1 |
+| [`09_FINAL_TOPICS.pdf`](Revison/09_FINAL_TOPICS.pdf) | Final Topics Part 2 |
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -129,6 +150,12 @@ NPTEL-Cloud-Computing/
 │   ├── ...
 │   └── CC_Solution-11.pdf
 │
+├── 📁 Revison/
+│   ├── 01_Cloud_Computing.pdf
+│   ├── 02_Cloud_Computing.pdf
+│   ├── ...
+│   └── 09_FINAL_TOPICS.pdf
+│
 ├── .gitattributes
 └── README.md
 ```
@@ -145,6 +172,7 @@ NPTEL-Cloud-Computing/
 2. **Browse the folders**
    - Open `Lecture Notes/` for weekly study material
    - Open `Assignment/` for verified assignment solutions
+   - Open `Revison/` for revision and final topics
 
 3. **Star ⭐ the repo** if you find it helpful!
 
